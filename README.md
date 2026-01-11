@@ -24,7 +24,7 @@ This project implements a Retrieval-Augmented Generation (RAG) system for semant
 
 ## How to Run
 1. Open the Google Colab notebook:
-   - (Paste your public Colab link here)
+   - https://colab.research.google.com/drive/1_P2ZANSeTQ0UWp29_lt8RbhBAZ2wf0-7?usp=sharing
 2. Run all cells from top to bottom.
 3. Enter a query using the retrieval function.
 
